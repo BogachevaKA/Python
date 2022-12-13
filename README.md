@@ -1,2 +1,2 @@
 # Python
-"Рello world"
+"Hello world"
